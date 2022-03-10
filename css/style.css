@@ -56,10 +56,11 @@ section {
   margin-top: 1rem;
   border-radius: 5rem;
   background: crimson;
-  padding: .7rem;
+  padding: .5rem;
   font-size: 1.7rem;
   color: #fff;
   padding-left: 2rem;
+  align-items: center;
 }
 
 .btn i {
