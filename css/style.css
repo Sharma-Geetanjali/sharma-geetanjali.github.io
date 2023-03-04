@@ -10,6 +10,9 @@
   border: none;
   
 }
+.red{
+  border: solid 1px red;
+}
 
 html {
   font-size: 62.5%;
@@ -362,8 +365,8 @@ section {
 .portfolio .box-container {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (minmax(31rem, 1fr))[auto-fit];
-      grid-template-columns: repeat(auto-fit, minmax(31rem, 1fr));
+  -ms-grid-columns: (minmax(26rem, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(26rem, 1fr));
   gap: 1.5rem;
   margin-bottom: 2rem;
 }
