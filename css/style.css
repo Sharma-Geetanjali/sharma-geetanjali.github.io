@@ -428,6 +428,7 @@ section {
   font-size: 1.5rem;
   line-height: 2;
   color: #aaa;
+  text-transform:none;
 }
 
 .portfolio .box-container .box .content a {
