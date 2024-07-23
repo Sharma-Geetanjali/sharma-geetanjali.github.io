@@ -20,7 +20,7 @@ html {
 }
 
 html::-webkit-scrollbar {
-  width: 1rem;
+  width: .4rem;
 }
 
 html::-webkit-scrollbar-track {
@@ -99,7 +99,7 @@ section {
 }
 
 .navbar a {
-  padding: 2rem;
+  padding: 1.5rem;
   font-size: 2rem;
   background: #1a1a1a;
   -webkit-box-flex: 1;
@@ -118,7 +118,7 @@ section {
 
 .navbar a:hover {
   background: crimson;
-  padding-bottom: 4rem;
+  padding-bottom: 3rem;
 }
 
 .navbar a:hover i {
